@@ -4,7 +4,7 @@ I created a program for calculating the number of nucleotides and their ratio in
 
 The number of bases in the result:
 
-Guanine: 10227582
-Adenine: 20093747
-Cytosine: 10204974
+Guanine: 10227582;
+Adenine: 20093747;
+Cytosine: 10204974;
 Thymine: 20090088
